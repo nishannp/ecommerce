@@ -3,7 +3,7 @@
       
         <a class="navbar-brand" href="index.php">
             <i class="fas fa-bicycle brand-icon"></i>
-            <span class="brand-text">Cycle Shop</span>
+            <span class="brand-text">Umesh Cycle</span>
         </a>
         
        

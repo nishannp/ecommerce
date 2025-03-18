@@ -4,11 +4,11 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-4 mb-4 mb-md-0">
-                    <h4 class="mb-4">About Cycle Shop</h4>
+                    <h4 class="mb-4">About Umesh Cycle Store</h4>
                     <p>We're passionate about cycling and providing the best bikes and accessories for all types of riders.</p>
                     <div class="social-icons mt-3">
-                        <a href="#" class="text-white me-3"><i class="fab fa-facebook-f"></i></a>
-                        <a href="#" class="text-white me-3"><i class="fab fa-instagram"></i></a>
+                        <a href="https://www.facebook.com/profile.php?id=100063829789665" class="text-white me-3"><i class="fab fa-facebook-f"></i></a>
+                        <a href="https://www.instagram.com/umesh_cycle_store/" class="text-white me-3"><i class="fab fa-instagram"></i></a>
                         <a href="#" class="text-white me-3"><i class="fab fa-twitter"></i></a>
                         <a href="#" class="text-white"><i class="fab fa-youtube"></i></a>
                     </div>
@@ -31,19 +31,19 @@
                     <ul class="list-unstyled footer-links">
                         <li class="d-flex mb-3">
                             <i class="fas fa-map-marker-alt mt-1 me-2"></i>
-                            <span>123 Cycling Street, Bike City</span>
+                            <span>Hulak line, Birendranagar - 06</span>
                         </li>
                         <li class="d-flex mb-3">
                             <i class="fas fa-phone-alt mt-1 me-2"></i>
-                            <span>+1 (555) 123-4567</span>
+                            <span>+977 9848049744</span>
                         </li>
                         <li class="d-flex mb-3">
                             <i class="fas fa-envelope mt-1 me-2"></i>
-                            <span>info@cycleshop.com</span>
+                            <span>umeshcyclestore@gmail.com</span>
                         </li>
                         <li class="d-flex">
                             <i class="fas fa-clock mt-1 me-2"></i>
-                            <span>Mon-Sat: 9:00 AM - 8:00 PM</span>
+                            <span>Sun-Sat: 8:00 AM - 8:00 PM</span>
                         </li>
                     </ul>
                 </div>
@@ -52,10 +52,10 @@
         <div class="container border-top border-secondary mt-4 pt-4">
             <div class="row">
                 <div class="col-md-6 text-center text-md-start">
-                    <p class="mb-0">&copy; <?php echo date('Y'); ?> Cycle Shop. All rights reserved.</p>
+                    <p class="mb-0">&copy; <?php echo date('Y'); ?> Umesh Cycle Store. All rights reserved.</p>
                 </div>
                 <div class="col-md-6 text-center text-md-end">
-                    <p class="mb-0">Designed by <i class="fas fa-heart text-danger"></i> Suraj</p>
+                    <p class="mb-0">Designed by <i class="fas fa-heart text-danger"></i> Cycle Shop </p>
                 </div>
             </div>
         </div>

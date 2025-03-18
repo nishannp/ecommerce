@@ -136,7 +136,9 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
             $imageType = mime_content_type($imageTmpPath);
 
             if (in_array($imageType, $allowedTypes)) {
-                $newFileName = uniqid() . '-' . basename($_FILES[$imageField]['name']);
+               // $newFileName = uniqid() . '-' . basename($_FILES[$imageField]['name']);
+               $fileExtension = pathinfo($_FILES[$imageField]['name'], PATHINFO_EXTENSION);
+$newFileName = uniqid() . '.' . $fileExtension;
                 $uploadFilePath = $uploadDir . $newFileName;
 
                 move_uploaded_file($imageTmpPath, $uploadFilePath);
